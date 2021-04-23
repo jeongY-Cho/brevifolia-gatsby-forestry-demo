@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/demo/data.json
   label: Demo Sidebar
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
